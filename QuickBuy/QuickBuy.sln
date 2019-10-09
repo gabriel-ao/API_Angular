@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickBuy.Domain", "QuickBuy\QuickBuy.Domain.csproj", "{E1459EA0-9F34-4CBD-B58E-8C40215977DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickBuy.Repositories", "QuickBuy.Repositories\QuickBuy.Repositories.csproj", "{2A8334AC-458A-4F13-82BF-22E9F0EF2AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1459EA0-9F34-4CBD-B58E-8C40215977DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1459EA0-9F34-4CBD-B58E-8C40215977DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1459EA0-9F34-4CBD-B58E-8C40215977DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1459EA0-9F34-4CBD-B58E-8C40215977DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8334AC-458A-4F13-82BF-22E9F0EF2AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8334AC-458A-4F13-82BF-22E9F0EF2AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8334AC-458A-4F13-82BF-22E9F0EF2AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8334AC-458A-4F13-82BF-22E9F0EF2AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE36DD2B-D95C-4C1F-93F1-D7CFADDA1DFE}
+	EndGlobalSection
+EndGlobal

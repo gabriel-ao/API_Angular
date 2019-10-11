@@ -6,3 +6,4 @@ C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angul
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.AssemblyInfo.cs
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.dll
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.pdb
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.csprojAssemblyReference.cache

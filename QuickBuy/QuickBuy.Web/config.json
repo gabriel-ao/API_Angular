@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "SqlServerConnection":  "",
+    "QuickBuyBD": "server=LAPTOP-RRULG9CL\\SQLEXPRESS;database=QuickBuyDB"
+  }
+}

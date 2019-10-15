@@ -14,7 +14,7 @@ namespace QuickBuy.Domain.Entidades
 
         public string SobreNome { get; set; }
 
-        public ICollection<Pedido> Pedidos { get; set; }
+        public virtual ICollection<Pedido> Pedidos { get; set; }
 
         public override void Validade()
         {

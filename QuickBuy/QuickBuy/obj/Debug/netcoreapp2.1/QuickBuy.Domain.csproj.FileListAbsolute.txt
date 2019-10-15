@@ -7,3 +7,12 @@ C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angul
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.dll
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.pdb
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.csprojAssemblyReference.cache
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\bin\Debug\netcoreapp2.1\QuickBuy.Domain.deps.json
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\bin\Debug\netcoreapp2.1\QuickBuy.Domain.dll
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\bin\Debug\netcoreapp2.1\QuickBuy.Domain.pdb
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.csprojAssemblyReference.cache
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.AssemblyInfo.cs
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.dll
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy\obj\Debug\netcoreapp2.1\QuickBuy.Domain.pdb

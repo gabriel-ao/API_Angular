@@ -10,3 +10,15 @@ C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angul
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy.Repositories\bin\Debug\netcoreapp2.1\QuickBuy.Domain.dll
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy.Repositories\bin\Debug\netcoreapp2.1\QuickBuy.Domain.pdb
 C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.csproj.CopyComplete
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\bin\Debug\netcoreapp2.1\QuickBuy.Repositories.deps.json
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\bin\Debug\netcoreapp2.1\QuickBuy.Repositories.dll
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\bin\Debug\netcoreapp2.1\QuickBuy.Repositories.pdb
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\bin\Debug\netcoreapp2.1\QuickBuy.Domain.dll
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\bin\Debug\netcoreapp2.1\QuickBuy.Domain.pdb
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.csprojAssemblyReference.cache
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.AssemblyInfo.cs
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.csproj.CopyComplete
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.dll
+C:\Users\adria\Documents\gabrielapi\API_Angular\QuickBuy\QuickBuy.Repositories\obj\Debug\netcoreapp2.1\QuickBuy.Repositories.pdb

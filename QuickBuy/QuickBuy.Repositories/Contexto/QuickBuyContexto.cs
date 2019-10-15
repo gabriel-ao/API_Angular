@@ -1,5 +1,4 @@
-﻿using JetBrains.Annotations;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using QuickBuy.Domain.Entidades;
 using QuickBuy.Domain.ObjectValue;
 using QuickBuy.Repositories.Config;
@@ -19,8 +18,6 @@ namespace QuickBuy.Repositories.Contexto
 
         public QuickBuyContexto(DbContextOptions options) : base(options)
         {
-
-
 
         }
 

@@ -18,6 +18,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
     <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="6.10.9" />
+    <PackageReference Include="VisualStudio.gitignore" Version="1.0.1" />
   </ItemGroup>
 
   <ItemGroup>

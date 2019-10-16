@@ -30,8 +30,6 @@ namespace QuickBuy.Domain.Entidades
         }
 
 
-
-
         // fim da classe usuario
     }
 }

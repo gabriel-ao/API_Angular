@@ -25,7 +25,6 @@ namespace QuickBuy.Repositories.Config
 
             builder.HasMany(u => u.Pedidos).WithOne(p => p.Usuario);
 
-            //builder.Property(pedido => pedido.Pedidos)
         }
     }
 }

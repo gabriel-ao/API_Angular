@@ -1,6 +1,7 @@
 {
   "ConnectionStrings": {
-    "SqlServerConnection":  "",
-    "QuickBuyBD": "server=LAPTOP-RRULG9CL\\SQLEXPRESS;database=QuickBuyDB"
+    "SqlServerConnection": "",
+    "QuickBuyBD": "server=localhost;uid=root;pwd='';database=QuickBuyDB"
   }
 }
+

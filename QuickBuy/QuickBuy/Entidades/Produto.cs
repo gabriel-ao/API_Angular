@@ -14,14 +14,14 @@ namespace QuickBuy.Domain.Entidades
 
         public decimal Preco { get; set; }
 
-        public override void Validade()
-        {
-            if (string.IsNullOrEmpty(Nome))
-            {
-                AdicionarCritica("Precisa de um nome");
-            }
+        //public override void Validade()
+        //{
+        //    if (string.IsNullOrEmpty(Nome))
+        //    {
+        //        AdicionarCritica("Precisa de um nome");
+        //    }
 
-            // verificar o do preco 
-        }
+        //    // verificar o do preco 
+        //}
     }
 }

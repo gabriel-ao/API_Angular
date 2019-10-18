@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using QuickBuy.Repositories.Contexto;
+using System.IO;
 
 namespace QuickBuy.Web
 {
@@ -16,7 +17,7 @@ namespace QuickBuy.Web
             var builder = new ConfigurationBuilder();
             // optional - verifica se é opcional ou nao
             // readOnChange - recarregado por essa chava como verdadeiro
-            builder.AddJsonFile(@"C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\API_Angular\API_Angular\API_Angular\QuickBuy\QuickBuy.Web\config.json", optional:false, reloadOnChange: true);
+            builder.AddJsonFile(Directory.GetCurrentDirectory()+"\\config.json", optional:false, reloadOnChange:true);
             Configuration = builder.Build();
         }
 

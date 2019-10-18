@@ -10,17 +10,17 @@ namespace QuickBuy.Domain.Entidades
         public int ProdutoId { get; set; }
         public int Quantidade { get; set; }
 
-        public override void Validade()
-        {
-            if(ProdutoId == 0)
-            {
-                AdicionarCritica("Não foi identificado qual a referencia");
-            }
+        //public override void Validade()
+        //{
+        //    if(ProdutoId == 0)
+        //    {
+        //        AdicionarCritica("Não foi identificado qual a referencia");
+        //    }
 
-            if(Quantidade == 0){
-                AdicionarCritica("Quantidade não foi informada");
-            }
+        //    if(Quantidade == 0){
+        //        AdicionarCritica("Quantidade não foi informada");
+        //    }
 
-        }
+        //}
     }
 }

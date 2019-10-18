@@ -19,11 +19,11 @@ namespace QuickBuy.Repositories.Config
             builder.Property(senha => senha.Senha).IsRequired().HasMaxLength(400);
 
 
-            builder.Property(nome => nome.Nome).IsRequired().HasMaxLength(50).HasColumnType("nvarchar");
+            builder.Property(nome => nome.Nome).IsRequired().HasMaxLength(50).HasColumnType("nvarchar(255)");
 
-            builder.Property(sobrenome => sobrenome.SobreNome).IsRequired().HasMaxLength(50).HasColumnType("nvarchar");
+            builder.Property(sobrenome => sobrenome.SobreNome).IsRequired().HasMaxLength(50).HasColumnType("nvarchar(255)");
 
-            builder.HasMany(u => u.Pedidos).WithOne(p => p.Usuario);
+            //builder.HasMany(u => u.Pedidos).WithOne(p => p.Usuario);
 
         }
     }

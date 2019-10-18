@@ -5,6 +5,9 @@ using System.Text;
 
 namespace QuickBuy.Domain.ObjectValue
 {
+
+    // adriano ajudando, não precisa dessa classe, posso ir direto para TipoFormaPagamentoEnum
+
     public class FormaPagamento
     {
         public int Id { get; set; }

@@ -1,4 +1,5 @@
-﻿using QuickBuy.Domain.ObjectValue;
+﻿using QuickBuy.Domain.Enum;
+using QuickBuy.Domain.ObjectValue;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,23 +29,23 @@ namespace QuickBuy.Domain.Entidades
 
         public string NumeroEndereco { get; set; }
 
-        public FormaPagamento FormaPagamento { get; set; }
+        public TipoFormaPagamentoEnum FormaPagamento { get; set; }
 
         public int FormaPagamentoId { get; set; }
 
-        public ICollection<ItemPedido> ItensPedido { get; set; }
+        //public virtual ICollection<ItemPedido> ItensPedido { get; set; }
 
-        public override void Validade()
-        {
-            LimparMensagensValidacao();
+        //public override void Validade()
+        //{
+        //    LimparMensagensValidacao();
 
-            if (!ItensPedido.Any())
-            {
-                AdicionarCritica("Critica - Item de pedido não pode ficare Vazio");
+        //    if (!ItensPedido.Any())
+        //    {
+        //        AdicionarCritica("Critica - Item de pedido não pode ficare Vazio");
                 
-            }
-            if (string.IsNullOrEmpty(CEP))
-                AdicionarCritica("Critica - CEP deve estar preenchido" );
-        }
+        //    }
+        //    if (string.IsNullOrEmpty(CEP))
+        //        AdicionarCritica("Critica - CEP deve estar preenchido" );
+        //}
     }
 }

@@ -20,6 +20,7 @@ namespace QuickBuy.Repositories.Config
 
             builder.Property(p => p.Preco).IsRequired();
 
+
         }
     }
 }

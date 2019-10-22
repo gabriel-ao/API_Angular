@@ -1,9 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using QuickBuy.Domain.Entidades;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace QuickBuy.Repositories.Config
 {
@@ -23,7 +20,7 @@ namespace QuickBuy.Repositories.Config
 
             builder.Property(sobrenome => sobrenome.SobreNome).IsRequired().HasMaxLength(50).HasColumnType("nvarchar(255)");
 
-            //builder.HasMany(u => u.Pedidos).WithOne(p => p.Usuario);
+            builder.HasMany(u => u.Pedidos).WithOne(p => p.Usuario).HasForeignKey(u => u.UsuarioId);
 
         }
     }

@@ -11,9 +11,9 @@ namespace QuickBuy.Repositories.Config
 
             builder.HasKey(i => i.Id);
 
-            builder.Property(i => i.ProdutoId).IsRequired();
-
             builder.Property(i => i.Quantidade).IsRequired();
+
+            builder.HasMany(i => i.Produtos).HasMany(i => i.Produto).HasForeignKey(i => i.UsuarioId);
         }
     }
 }

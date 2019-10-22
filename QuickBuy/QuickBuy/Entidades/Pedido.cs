@@ -17,6 +17,8 @@ namespace QuickBuy.Domain.Entidades
 
         public virtual Usuario Usuario { get; set; }
 
+        public virtual Produto Produtos { get; set; }
+
         public DateTime DataPrevisaoEntrega { get; set; }
 
         public string CEP { get; set; }
@@ -33,7 +35,7 @@ namespace QuickBuy.Domain.Entidades
 
         public int FormaPagamentoId { get; set; }
 
-        //public virtual ICollection<ItemPedido> ItensPedido { get; set; }
+        public virtual ICollection<Produto> ItensPedido { get; set; }
 
         //public override void Validade()
         //{
